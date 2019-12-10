@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="51681" started-at="2019-12-09T13:10:51Z" finished-at="2019-12-09T13:11:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="51681" started-at="2019-12-09T13:10:51Z" finished-at="2019-12-09T13:11:42Z">
+      <class name="BasicTest.TEST1">
+        <test-method status="PASS" signature="jenkins()[pri:0, instance:BasicTest.TEST1@1e643faf]" name="jenkins" duration-ms="8952" started-at="2019-12-09T18:40:51Z" finished-at="2019-12-09T18:41:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jenkins -->
+        <test-method status="PASS" signature="jenkins1()[pri:0, instance:BasicTest.TEST1@1e643faf]" name="jenkins1" duration-ms="10899" started-at="2019-12-09T18:41:00Z" finished-at="2019-12-09T18:41:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jenkins1 -->
+        <test-method status="PASS" signature="jenkins2()[pri:0, instance:BasicTest.TEST1@1e643faf]" name="jenkins2" duration-ms="16780" started-at="2019-12-09T18:41:11Z" finished-at="2019-12-09T18:41:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jenkins2 -->
+        <test-method status="PASS" signature="jenkins3()[pri:0, instance:BasicTest.TEST1@1e643faf]" name="jenkins3" duration-ms="15015" started-at="2019-12-09T18:41:27Z" finished-at="2019-12-09T18:41:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jenkins3 -->
+      </class> <!-- BasicTest.TEST1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
